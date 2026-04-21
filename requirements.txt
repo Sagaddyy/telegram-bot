@@ -1,4 +1,1 @@
-python-telegram-bot
-requests
-pandas
-MetaTrader5
+python-telegram-bot==20.7
